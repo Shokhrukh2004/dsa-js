@@ -28,21 +28,6 @@ This repository is structured to include different data structures and algorithm
 ## Repository Structure
 data-structures-and-algorithms/
 │── data-structures/
-│   ├── linked-list.js
-│   ├── stack.js
-│   ├── queue.js
-│   ├── ...
-│
-│── algorithms/
-│   ├── sorting/
-│   │   ├── bubble-sort.js
-│   │   ├── quick-sort.js
-│   │   ├── ...
-│   │
-│   ├── searching/
-│   │   ├── linear-search.js
-│   │   ├── binary-search.js
-│   │   ├── ...
 │
 │── README.md
 
@@ -56,4 +41,5 @@ This repository is open-source under the MIT License.
 
 
 ## Contents
- 1.
+ 1.Arrays and Strings
+
